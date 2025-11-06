@@ -12,6 +12,13 @@ Análisis de datos para identificar operadores ineficaces en la plataforma CallM
 - Python (pandas, numpy, matplotlib, seaborn, scipy, scikit-learn)
 - Jupyter Notebook (análisis reproducible)
 
+## Conclusiones
+- Se identificaron **113 operadores ineficaces** (10.4% del total) mediante un sistema de scoring multidimensional validado estadísticamente.  
+- Los operadores ineficaces presentan **tiempos de espera excesivos**, **mayor volumen de llamadas perdidas** y **baja colaboración interna**.  
+- Las pruebas estadísticas confirmaron diferencias altamente significativas entre operadores eficientes e ineficientes (p-value < 0.0001).  
+- Se comprobó que la **eficiencia no puede evaluarse con métricas aisladas**, sino a través de un enfoque multidimensional.  
+- Las recomendaciones incluyen **reentrenamiento focalizado**, **balance de cargas operativas** y la implementación de un **dashboard en tiempo real** para monitoreo continuo.
+
 ## Instrucciones de uso
 1. Clonar el repositorio:
    ```bash
