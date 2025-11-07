@@ -10,6 +10,7 @@ Análisis de datos para identificar operadores ineficaces en la plataforma CallM
 
 ## Tecnologías y librerías
 - Python (pandas, numpy, matplotlib, seaborn, scipy, scikit-learn).
+- Tableau (visualización).
 - Jupyter Notebook (análisis reproducible).
 
 ## Conclusiones
