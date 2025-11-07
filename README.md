@@ -23,15 +23,15 @@ Análisis de datos para identificar operadores ineficaces en la plataforma CallM
 ## Instrucciones de uso
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/analisis_operadores_ineficientes.git
-   cd analisis_operadores_ineficientes
+   git clone https://github.com/tu_usuario/analisis_operadores_ineficaces_telecom.git
+   cd analisis_operadores_ineficaces
 2. Instalar las dependencias:
 
     pip install -r requirements.txt
 
 3. Abrir el notebook principal:
 
-    notebooks/analisis_operadores_ineficientes.ipynb
+    notebooks/analisis_operadores_ineficaces.ipynb
 
 4. Ejecutar las celdas para reproducir el análisis y los resultados.
 
